@@ -1,0 +1,1 @@
+#  git diff --shortstat 49c463b^...87d4afd ./*/test/**/*
