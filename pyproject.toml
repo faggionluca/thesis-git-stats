@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pythongitplot"
+version = "0.1.0"
+description = ""
+authors = ["DarkImage <luc-af@live.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+GitPython = "3.1.30"
+plotly-express = "^0.4.1"
+kaleido = "0.2.1"
+pydriller = "^2.5"
+matplotlib = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
